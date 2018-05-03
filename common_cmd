@@ -1,1 +1,2 @@
 pip install matplotlib
+git init  初始化vsc中的git
